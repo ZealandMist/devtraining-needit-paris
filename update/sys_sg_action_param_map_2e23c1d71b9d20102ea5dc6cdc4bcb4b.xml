@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create New">8a1c69c31b5520102ea5dc6cdc4bcba7</button>
+        <item_parameter display_value="Description">732ba1831b5520102ea5dc6cdc4bcb4b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-30 13:53:29</sys_created_on>
+        <sys_id>2e23c1d71b9d20102ea5dc6cdc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>732ba1831b5520102ea5dc6cdc4bcb4b</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2e23c1d71b9d20102ea5dc6cdc4bcb4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-30 13:53:29</sys_updated_on>
+        <ui_parameter display_value="Description">0d7ea5471b5520102ea5dc6cdc4bcb53</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
